@@ -2,6 +2,8 @@
 
 ![image941](https://user-images.githubusercontent.com/127014758/222955999-6d936c03-8b0f-45e2-a93f-ff117f39a00e.jpg)
 
+(2023/3/10) I updated the (After Tesseract) Create Environment Variables.exe, Please redownload the 7z file if you downloaded it before.
+
 安裝方法:
 
 1.安裝 (First)Tesseract-ocr-w64-setup-5.3.0.20221222.exe (https://github.com/UB-Mannheim/tesseract/wiki)
